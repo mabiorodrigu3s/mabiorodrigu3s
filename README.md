@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabiorodrigu3s
 - 👀 I’m interested in Java, Javascript, Flutter
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java, Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
